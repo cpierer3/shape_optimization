@@ -1,0 +1,37 @@
+# Virtual environments
+.venv/
+venv/
+
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# NGSolve specific (if any output files)
+*.vol
+*.mesh
+*.vtk
+
+# Specific files to ignore
+02_Shape_Derivative_Laplace.ipynb
+01_Shape_Derivative_Levelset.ipynb
+
