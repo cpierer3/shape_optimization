@@ -3,4 +3,5 @@ Implementation of project on PDE constraint shape optimization
 
 
 
-See the [documentation]{https://cpierer3.github.io/waves/intro.html}
+
+**[View Interactive Jupyter Book](https://cpierer3.github.io/shape_optimization/intro.html)** - See the complete documentation
